@@ -50,8 +50,8 @@ This repository is licensed under the MIT License. You are free to use, modify, 
 
 If you use this tool in your research, please cite it as follows:
 
-> [Farina, Andrea]. *INCEpTION CAS Annotation Extractor*. Available at: https://github.com/farina-andrea/inception-cas-extractor  
-> Farina, A. (2024). Guidelines for a linguistic annotation of preverbed verbs of motion. King’s College London. Figshare. https://doi.org/10.18742/25055573.
+> Farina, A. *INCEpTION CAS Annotation Extractor*. Available at: https://github.com/farina-andrea/inception-cas-extractor  
+> Farina, A. (2024). *Guidelines for a linguistic annotation of preverbed verbs of motion*. King’s College London. Figshare. https://doi.org/10.18742/25055573.
 
 
 
