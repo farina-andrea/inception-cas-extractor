@@ -10,3 +10,7 @@ If you haven't already, install the required libraries via the `requirements.txt
 
    ```bash
    pip install -r requirements.txt
+
+Or, alternatively, you can install the libraries individually:
+
+pip install dkpro-cassis lxml
