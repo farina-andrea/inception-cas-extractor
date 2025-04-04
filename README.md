@@ -18,4 +18,12 @@ Or, alternatively, you can install the libraries individually:
 pip install dkpro-cassis lxml
 ```
 
+## Files
 
+`extract_annotations.ipynb`: Jupyter Notebook that contains the code to extract annotations from XMI files.
+
+typesystem.xml: The type system XML file required to load the annotation types.
+
+requirements.txt: List of Python libraries needed to run the notebook.
+
+LICENSE: This repository is licensed under the MIT License.
